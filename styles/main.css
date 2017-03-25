@@ -1,0 +1,22 @@
+header{
+	font-size: 100px;
+	text-transform: uppercase;
+}
+img {
+	max-width: 100%
+}
+.content{
+	column-count: 4;
+}
+.head{
+	text-align: center;
+	position: relative;
+}
+.subhead{
+	font-size: 50px;
+	border-bottom: 2px solid #000;
+	border-top: 2px solid #000;
+	margin: 12px 0 12px 0;
+	padding: 12px 0 12px 0;
+	text-transform: uppercase;
+}
